@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+practice/
+*.swp
+*.out
+main*.c
+*.dSYM
+main/w
